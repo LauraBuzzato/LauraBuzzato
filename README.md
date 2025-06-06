@@ -42,10 +42,21 @@
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBuzzato&layout=donut&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraBuzzato&show_icons=true&theme=radical&hide=contribs,prs" />
-</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LauraBuzzato&show_icons=true&theme=radical&hide=contribs,prs" width="585"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBuzzato&layout=compact&theme=radical" width="400"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
